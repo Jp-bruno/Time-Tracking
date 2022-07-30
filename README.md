@@ -4,7 +4,7 @@ This is a Front-end Mentor challenge: https://www.frontendmentor.io/solutions/ca
 
 ### Live preview
 
-https://jp-bruno.github.io/time-tracking-front-end-mentor/
+https://jp-bruno.github.io/Time-Tracking/
 
 ### Screenshots
 
